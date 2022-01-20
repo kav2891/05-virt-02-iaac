@@ -34,7 +34,7 @@
 ###
 - VirtualBox
 
-![image info](./screenshots/virtualbox.png)
+![image info](./virtualbox.png)
 
 ### 
 - Vagrant
